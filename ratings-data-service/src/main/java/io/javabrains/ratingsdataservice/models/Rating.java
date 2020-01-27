@@ -1,4 +1,4 @@
-package io.javabrains.moviecatalogservice.models;
+package io.javabrains.ratingsdataservice.models;
 
 public class Rating {
     private String movieId;
